@@ -1,2 +1,3 @@
-# Floating-Voltage-Display
+# Floating-Voltage-Display(电压浮窗)
 为了那些电量显示不准的设备而设计，轻量，项目源码由AI生成
+开始是为了我换了电池导致电量显示及其不准的学习机设计的
